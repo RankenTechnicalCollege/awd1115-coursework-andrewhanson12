@@ -1,0 +1,15 @@
+C:\Users\andre\Documents\GitHub\awd1115-coursework-andrewhanson12\Labs\CH01\CH01\Project2\bin\Debug\net8.0\Project2.exe
+C:\Users\andre\Documents\GitHub\awd1115-coursework-andrewhanson12\Labs\CH01\CH01\Project2\bin\Debug\net8.0\Project2.deps.json
+C:\Users\andre\Documents\GitHub\awd1115-coursework-andrewhanson12\Labs\CH01\CH01\Project2\bin\Debug\net8.0\Project2.runtimeconfig.json
+C:\Users\andre\Documents\GitHub\awd1115-coursework-andrewhanson12\Labs\CH01\CH01\Project2\bin\Debug\net8.0\Project2.dll
+C:\Users\andre\Documents\GitHub\awd1115-coursework-andrewhanson12\Labs\CH01\CH01\Project2\bin\Debug\net8.0\Project2.pdb
+C:\Users\andre\Documents\GitHub\awd1115-coursework-andrewhanson12\Labs\CH01\CH01\Project2\obj\Debug\net8.0\Project2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Documents\GitHub\awd1115-coursework-andrewhanson12\Labs\CH01\CH01\Project2\obj\Debug\net8.0\Project2.AssemblyInfoInputs.cache
+C:\Users\andre\Documents\GitHub\awd1115-coursework-andrewhanson12\Labs\CH01\CH01\Project2\obj\Debug\net8.0\Project2.AssemblyInfo.cs
+C:\Users\andre\Documents\GitHub\awd1115-coursework-andrewhanson12\Labs\CH01\CH01\Project2\obj\Debug\net8.0\Project2.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\GitHub\awd1115-coursework-andrewhanson12\Labs\CH01\CH01\Project2\obj\Debug\net8.0\Project2.sourcelink.json
+C:\Users\andre\Documents\GitHub\awd1115-coursework-andrewhanson12\Labs\CH01\CH01\Project2\obj\Debug\net8.0\Project2.dll
+C:\Users\andre\Documents\GitHub\awd1115-coursework-andrewhanson12\Labs\CH01\CH01\Project2\obj\Debug\net8.0\refint\Project2.dll
+C:\Users\andre\Documents\GitHub\awd1115-coursework-andrewhanson12\Labs\CH01\CH01\Project2\obj\Debug\net8.0\Project2.pdb
+C:\Users\andre\Documents\GitHub\awd1115-coursework-andrewhanson12\Labs\CH01\CH01\Project2\obj\Debug\net8.0\Project2.genruntimeconfig.cache
+C:\Users\andre\Documents\GitHub\awd1115-coursework-andrewhanson12\Labs\CH01\CH01\Project2\obj\Debug\net8.0\ref\Project2.dll
