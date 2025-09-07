@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\andre\\Documents\\GitHub\\awd1115-coursework-andrewhanson12\\Labs\\CH02\\CH02Lab1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1FE7A41-8ED1-4950-859D-4411AD8A3472}|PriceQuotation\\PriceQuotation.csproj|c:\\users\\andre\\documents\\github\\awd1115-coursework-andrewhanson12\\labs\\ch02\\ch02lab1\\pricequotation\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C1FE7A41-8ED1-4950-859D-4411AD8A3472}|PriceQuotation\\PriceQuotation.csproj|solutionrelative:pricequotation\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1FE7A41-8ED1-4950-859D-4411AD8A3472}|PriceQuotation\\PriceQuotation.csproj|c:\\users\\andre\\documents\\github\\awd1115-coursework-andrewhanson12\\labs\\ch02\\ch02lab1\\pricequotation\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1FE7A41-8ED1-4950-859D-4411AD8A3472}|PriceQuotation\\PriceQuotation.csproj|solutionrelative:pricequotation\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1FE7A41-8ED1-4950-859D-4411AD8A3472}|PriceQuotation\\PriceQuotation.csproj|c:\\users\\andre\\documents\\github\\awd1115-coursework-andrewhanson12\\labs\\ch02\\ch02lab1\\pricequotation\\models\\calculateprice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1FE7A41-8ED1-4950-859D-4411AD8A3472}|PriceQuotation\\PriceQuotation.csproj|solutionrelative:pricequotation\\models\\calculateprice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\GitHub\\awd1115-coursework-andrewhanson12\\Labs\\CH02\\CH02Lab1\\PriceQuotation\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "PriceQuotation\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\andre\\Documents\\GitHub\\awd1115-coursework-andrewhanson12\\Labs\\CH02\\CH02Lab1\\PriceQuotation\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "PriceQuotation\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-07T12:56:00.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\GitHub\\awd1115-coursework-andrewhanson12\\Labs\\CH02\\CH02Lab1\\PriceQuotation\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "PriceQuotation\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\andre\\Documents\\GitHub\\awd1115-coursework-andrewhanson12\\Labs\\CH02\\CH02Lab1\\PriceQuotation\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "PriceQuotation\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T12:55:51.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CalculatePrice.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\GitHub\\awd1115-coursework-andrewhanson12\\Labs\\CH02\\CH02Lab1\\PriceQuotation\\Models\\CalculatePrice.cs",
+              "RelativeDocumentMoniker": "PriceQuotation\\Models\\CalculatePrice.cs",
+              "ToolTip": "C:\\Users\\andre\\Documents\\GitHub\\awd1115-coursework-andrewhanson12\\Labs\\CH02\\CH02Lab1\\PriceQuotation\\Models\\CalculatePrice.cs",
+              "RelativeToolTip": "PriceQuotation\\Models\\CalculatePrice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T12:55:44.473Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

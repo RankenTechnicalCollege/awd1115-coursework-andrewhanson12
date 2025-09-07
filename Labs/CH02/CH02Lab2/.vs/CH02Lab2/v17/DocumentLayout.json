@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\andre\\Documents\\GitHub\\awd1115-coursework-andrewhanson12\\Labs\\CH02\\CH02Lab2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6DBB58B9-6113-4375-A7AC-E33F03AC2078}|TipCalculator\\TipCalculator.csproj|c:\\users\\andre\\documents\\github\\awd1115-coursework-andrewhanson12\\labs\\ch02\\ch02lab2\\tipcalculator\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DBB58B9-6113-4375-A7AC-E33F03AC2078}|TipCalculator\\TipCalculator.csproj|solutionrelative:tipcalculator\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DBB58B9-6113-4375-A7AC-E33F03AC2078}|TipCalculator\\TipCalculator.csproj|c:\\users\\andre\\documents\\github\\awd1115-coursework-andrewhanson12\\labs\\ch02\\ch02lab2\\tipcalculator\\models\\calculatetip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DBB58B9-6113-4375-A7AC-E33F03AC2078}|TipCalculator\\TipCalculator.csproj|solutionrelative:tipcalculator\\models\\calculatetip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DBB58B9-6113-4375-A7AC-E33F03AC2078}|TipCalculator\\TipCalculator.csproj|c:\\users\\andre\\documents\\github\\awd1115-coursework-andrewhanson12\\labs\\ch02\\ch02lab2\\tipcalculator\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DBB58B9-6113-4375-A7AC-E33F03AC2078}|TipCalculator\\TipCalculator.csproj|solutionrelative:tipcalculator\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DBB58B9-6113-4375-A7AC-E33F03AC2078}|TipCalculator\\TipCalculator.csproj|c:\\users\\andre\\documents\\github\\awd1115-coursework-andrewhanson12\\labs\\ch02\\ch02lab2\\tipcalculator\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6DBB58B9-6113-4375-A7AC-E33F03AC2078}|TipCalculator\\TipCalculator.csproj|solutionrelative:tipcalculator\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\GitHub\\awd1115-coursework-andrewhanson12\\Labs\\CH02\\CH02Lab2\\TipCalculator\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "TipCalculator\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\andre\\Documents\\GitHub\\awd1115-coursework-andrewhanson12\\Labs\\CH02\\CH02Lab2\\TipCalculator\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "TipCalculator\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-07T13:41:28.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalculateTip.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\GitHub\\awd1115-coursework-andrewhanson12\\Labs\\CH02\\CH02Lab2\\TipCalculator\\Models\\CalculateTip.cs",
+              "RelativeDocumentMoniker": "TipCalculator\\Models\\CalculateTip.cs",
+              "ToolTip": "C:\\Users\\andre\\Documents\\GitHub\\awd1115-coursework-andrewhanson12\\Labs\\CH02\\CH02Lab2\\TipCalculator\\Models\\CalculateTip.cs",
+              "RelativeToolTip": "TipCalculator\\Models\\CalculateTip.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T13:28:41.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\GitHub\\awd1115-coursework-andrewhanson12\\Labs\\CH02\\CH02Lab2\\TipCalculator\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "TipCalculator\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\andre\\Documents\\GitHub\\awd1115-coursework-andrewhanson12\\Labs\\CH02\\CH02Lab2\\TipCalculator\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "TipCalculator\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-07T13:26:59.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\GitHub\\awd1115-coursework-andrewhanson12\\Labs\\CH02\\CH02Lab2\\TipCalculator\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "TipCalculator\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\andre\\Documents\\GitHub\\awd1115-coursework-andrewhanson12\\Labs\\CH02\\CH02Lab2\\TipCalculator\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "TipCalculator\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T13:25:59.417Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

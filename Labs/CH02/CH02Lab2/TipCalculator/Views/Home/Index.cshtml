@@ -1,0 +1,38 @@
+﻿@model CalculateTip
+@{
+	Layout = null;
+}
+
+<html>
+<head>
+
+</head>
+<body>
+	<div>
+		<h1>Tip Calculator</h1>
+		<form asp-action="Index" method="post">
+			<div>
+				<label asp-for="MealCost">Meal Cost: </label>
+				<input asp-for="MealCost" />
+			</div>
+			<div>
+				<label>15%: </label>
+				<input value="@ViewBag.Fifteen.ToString("C")" readonly />
+			</div>
+			<div>
+				<label>20%: </label>
+				<input value="@ViewBag.Twenty.ToString("C")" readonly />
+			</div>
+			<div>
+				<label>25%: </label>
+				<input value="@ViewBag.TwentyFive.ToString("C")" readonly />
+			</div>
+			<div>
+				<input type="submit" value="Calculate Tip" />
+				<a asp-action="Index">Clear</a>
+			</div>
+		</form>
+	</div>
+
+</body>
+</html>
