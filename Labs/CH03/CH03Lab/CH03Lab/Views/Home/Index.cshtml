@@ -1,0 +1,62 @@
+﻿@model CalculatePrice
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+
+</head>
+<body>
+	<header class="bg-success text-white text-center">
+		<h1>
+			<i class="fa-solid fa-money-bill-wave"></i>
+			Price Quotation
+		</h1>
+	</header>
+	
+	<form asp-action="Index" method="post">
+		<div class="row align-items-center">
+			<div class="col-12 col-md-4">
+				<label asp-for="Subtotal" class="col-form-label">Subtotal: </label>
+			</div>
+			<div class ="col-12 col-md-4">
+				<input asp-for="Subtotal" class="form-control" />
+			</div>
+			<div class="col-12 col-md-4">
+				<p class="text-danger">Please enter a sale price</p>
+			</div>
+		</div>
+		<div class="row align-items-center">
+			<div class="col-12 col-md-4">
+				<label asp-for="DiscountPercent" class="col-form-label">Discount Percent: </label>
+			</div>
+			<div class="col-12 col-md-4">
+				<input asp-for="DiscountPercent" class="form-control" />
+			</div>
+			<div class="col-12 col-md-4">
+				<p class="text-danger">Please enter a discount percent</p>
+			</div>
+		</div>
+		<div class="row align-items-center">
+			<div class="col-12 col-md-6">
+				<label class="col-form-label">Discount Amount: </label>
+			</div>
+			<div class="col-12 col-md-6">
+				<input class="form-control" value="@ViewBag.DiscountAmount.ToString("C")   />
+			</div>
+		</div>
+		<div class="row align-items-center">
+			<div class="col-12 col-md-6">
+				<label class="col-form-label">Total: </label>
+			</div>
+			<div class="col-12 col-md-6">
+				<input class="form-control" value="@ViewBag.Total.ToString("C")   />
+			</div>
+		</div>
+		<button type="submit" class="btn btn-success">Calculate</button>
+		<a asp-action="Index" class="btn btn-success">Clear</a>
+	</form>
+</body>
+</html>

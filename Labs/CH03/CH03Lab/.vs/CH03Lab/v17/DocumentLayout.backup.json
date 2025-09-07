@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\andre\\Documents\\GitHub\\awd1115-coursework-andrewhanson12\\Labs\\CH03\\CH03Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5FCADDA5-8416-4D3E-9488-3DD494821DD9}|CH03Lab\\CH03Lab.csproj|c:\\users\\andre\\documents\\github\\awd1115-coursework-andrewhanson12\\labs\\ch03\\ch03lab\\ch03lab\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5FCADDA5-8416-4D3E-9488-3DD494821DD9}|CH03Lab\\CH03Lab.csproj|solutionrelative:ch03lab\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FCADDA5-8416-4D3E-9488-3DD494821DD9}|CH03Lab\\CH03Lab.csproj|c:\\users\\andre\\documents\\github\\awd1115-coursework-andrewhanson12\\labs\\ch03\\ch03lab\\ch03lab\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FCADDA5-8416-4D3E-9488-3DD494821DD9}|CH03Lab\\CH03Lab.csproj|solutionrelative:ch03lab\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FCADDA5-8416-4D3E-9488-3DD494821DD9}|CH03Lab\\CH03Lab.csproj|c:\\users\\andre\\documents\\github\\awd1115-coursework-andrewhanson12\\labs\\ch03\\ch03lab\\ch03lab\\models\\calculateprice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FCADDA5-8416-4D3E-9488-3DD494821DD9}|CH03Lab\\CH03Lab.csproj|solutionrelative:ch03lab\\models\\calculateprice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\GitHub\\awd1115-coursework-andrewhanson12\\Labs\\CH03\\CH03Lab\\CH03Lab\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CH03Lab\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\andre\\Documents\\GitHub\\awd1115-coursework-andrewhanson12\\Labs\\CH03\\CH03Lab\\CH03Lab\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CH03Lab\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T14:27:32.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\GitHub\\awd1115-coursework-andrewhanson12\\Labs\\CH03\\CH03Lab\\CH03Lab\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CH03Lab\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\andre\\Documents\\GitHub\\awd1115-coursework-andrewhanson12\\Labs\\CH03\\CH03Lab\\CH03Lab\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "CH03Lab\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAIwDYAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-07T14:26:46.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CalculatePrice.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\GitHub\\awd1115-coursework-andrewhanson12\\Labs\\CH03\\CH03Lab\\CH03Lab\\Models\\CalculatePrice.cs",
+              "RelativeDocumentMoniker": "CH03Lab\\Models\\CalculatePrice.cs",
+              "ToolTip": "C:\\Users\\andre\\Documents\\GitHub\\awd1115-coursework-andrewhanson12\\Labs\\CH03\\CH03Lab\\CH03Lab\\Models\\CalculatePrice.cs",
+              "RelativeToolTip": "CH03Lab\\Models\\CalculatePrice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T14:25:50.086Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
