@@ -1,0 +1,20 @@
+﻿@model ConvertDistance
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-start">
+    <h1 class="display-4">Distance Converter</h1>
+    <form asp-action="Index" method="post">
+        <div class="row">
+            <div class="col-auto align-items-center">
+                <label asp-for="Inches" class="form-label">Distance in Inches</label>
+				<input asp-for="Inches" class="form-control" />
+				<span asp-validation-for="Inches" class="text-danger"></span>
+                <button type="submit" class="btn btn-primary mt-2">Convert</button>
+                <a asp-action="Index" class="btn btn-danger mt-2">Clear</a>
+				<p class="mt-2">@ViewBag.Message</p>
+            </div>
+        </div>
+    </form>
+</div>
