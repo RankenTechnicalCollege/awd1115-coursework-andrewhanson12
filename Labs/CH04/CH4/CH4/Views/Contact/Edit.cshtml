@@ -1,0 +1,37 @@
+﻿@model Contact
+@{
+	ViewData["Title"] = $"{ViewBag.Action}";
+}
+<h1>@ViewBag.Action</h1>
+<form asp-action="Edit" method="post">
+	<div asp-validation-summary="All" class="Text-Danger"></div>
+	<div class="form-group">
+		<label asp-for="FirstName"></label>
+		<input asp-for="FirstName" class="form-control" />
+	</div>
+	<div class="form-group">
+		<label asp-for="LastName"></label>
+		<input asp-for="LastName" class="form-control" />
+	</div>
+	<div class="form-group">
+		<label asp-for="Email"></label>
+		<input asp-for="Email" class="form-control" />
+	</div>
+	<div class="form-group">
+		<label asp-for="Phone"></label>
+		<input asp-for="Phone" class="form-control" />
+	</div>
+	<div class="mb-3">
+		<label asp-for="CategoryId" class="form-label">Category</label>
+		<select asp-for="CategoryId" class="form-control">
+			<option value="">-- Select Category --</option>
+			@foreach (var category in ViewBag.Categories)
+			{
+				<option value="@category.CategoryId">@category.CategoryName</option>
+			}
+		</select>
+	</div>
+	<input type="hidden" asp-for="ContactId" />
+	<button type="submit" class="btn btn-primary">Save</button>
+	<a asp-controller="Home" asp-action="Index" class="btn btn-secondary">Cancel</a>
+</form>

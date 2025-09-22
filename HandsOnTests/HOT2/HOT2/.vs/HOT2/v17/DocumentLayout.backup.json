@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "HOT2\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\andre\\Documents\\GitHub\\awd1115-coursework-andrewhanson12\\HandsOnTests\\HOT2\\HOT2\\HOT2\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "HOT2\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAACcAAACBAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAACBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-09-22T00:37:34.275Z",
               "EditorCaption": ""
@@ -47,8 +47,7 @@
               "RelativeToolTip": "HOT2\\Models\\Product.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAA7wBgAAABYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-22T00:35:33.84Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-22T00:35:33.84Z"
             },
             {
               "$type": "Document",
@@ -60,8 +59,7 @@
               "RelativeToolTip": "HOT2\\Program.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAAACEAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-22T00:31:44.499Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-22T00:31:44.499Z"
             }
           ]
         }
