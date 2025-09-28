@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\andre\\Documents\\GitHub\\awd1115-coursework-andrewhanson12\\Labs\\CH06\\CH06\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{470ED36A-E56D-4798-9BDF-A3E0150BF87C}|CH06\\CH06.csproj|c:\\users\\andre\\documents\\github\\awd1115-coursework-andrewhanson12\\labs\\ch06\\ch06\\ch06\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{470ED36A-E56D-4798-9BDF-A3E0150BF87C}|CH06\\CH06.csproj|solutionrelative:ch06\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{470ED36A-E56D-4798-9BDF-A3E0150BF87C}|CH06\\CH06.csproj|c:\\users\\andre\\documents\\github\\awd1115-coursework-andrewhanson12\\labs\\ch06\\ch06\\ch06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{470ED36A-E56D-4798-9BDF-A3E0150BF87C}|CH06\\CH06.csproj|solutionrelative:ch06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{470ED36A-E56D-4798-9BDF-A3E0150BF87C}|CH06\\CH06.csproj|c:\\users\\andre\\documents\\github\\awd1115-coursework-andrewhanson12\\labs\\ch06\\ch06\\ch06\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{470ED36A-E56D-4798-9BDF-A3E0150BF87C}|CH06\\CH06.csproj|solutionrelative:ch06\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\GitHub\\awd1115-coursework-andrewhanson12\\Labs\\CH06\\CH06\\CH06\\Program.cs",
+              "RelativeDocumentMoniker": "CH06\\Program.cs",
+              "ToolTip": "C:\\Users\\andre\\Documents\\GitHub\\awd1115-coursework-andrewhanson12\\Labs\\CH06\\CH06\\CH06\\Program.cs",
+              "RelativeToolTip": "CH06\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACIAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T21:18:56.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\GitHub\\awd1115-coursework-andrewhanson12\\Labs\\CH06\\CH06\\CH06\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CH06\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\andre\\Documents\\GitHub\\awd1115-coursework-andrewhanson12\\Labs\\CH06\\CH06\\CH06\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "CH06\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-28T21:09:52.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\GitHub\\awd1115-coursework-andrewhanson12\\Labs\\CH06\\CH06\\CH06\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CH06\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\andre\\Documents\\GitHub\\awd1115-coursework-andrewhanson12\\Labs\\CH06\\CH06\\CH06\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CH06\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBEAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T21:01:56.452Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
