@@ -1,0 +1,25 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    var ctl = (ViewContext.RouteData.Values["controller"] as string ?? "").ToLower();
+    bool onHome = ctl == "home";
+    bool onTutorial = ctl == "tutorial";
+}
+@section Header {
+    <h1>Help Page</h1>
+}
+
+<nav class="container">
+    <ul class="nav nav-tabs mb-3">
+        <li class="nav-item">
+            <a class="nav-link @(onHome ? "active" : "")"
+               asp-area="Help" asp-controller="Home" asp-action="Index">Home</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link @(onTutorial ? "active" : "")"
+               asp-area="Help" asp-controller="Tutorial" asp-action="Index" asp-route-id="1">Tutorial</a>
+        </li>
+    </ul>
+</nav>
+
+@RenderBody()
+
