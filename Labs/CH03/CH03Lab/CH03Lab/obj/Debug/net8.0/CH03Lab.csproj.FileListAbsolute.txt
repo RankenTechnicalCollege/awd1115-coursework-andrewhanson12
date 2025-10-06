@@ -32,3 +32,4 @@ C:\Users\andre\Documents\GitHub\awd1115-coursework-andrewhanson12\Labs\CH03\CH03
 C:\Users\andre\Documents\GitHub\awd1115-coursework-andrewhanson12\Labs\CH03\CH03Lab\CH03Lab\obj\Debug\net8.0\CH03Lab.pdb
 C:\Users\andre\Documents\GitHub\awd1115-coursework-andrewhanson12\Labs\CH03\CH03Lab\CH03Lab\obj\Debug\net8.0\CH03Lab.genruntimeconfig.cache
 C:\Users\andre\Documents\GitHub\awd1115-coursework-andrewhanson12\Labs\CH03\CH03Lab\CH03Lab\obj\Debug\net8.0\ref\CH03Lab.dll
+C:\Users\andre\Documents\GitHub\awd1115-coursework-andrewhanson12\Labs\CH03\CH03Lab\CH03Lab\bin\Debug\net8.0\libman.json

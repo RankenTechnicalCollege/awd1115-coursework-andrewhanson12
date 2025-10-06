@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\andre\\Documents\\GitHub\\awd1115-coursework-andrewhanson12\\Labs\\CH03\\CH03Lab\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5FCADDA5-8416-4D3E-9488-3DD494821DD9}|CH03Lab\\CH03Lab.csproj|c:\\users\\andre\\documents\\github\\awd1115-coursework-andrewhanson12\\labs\\ch03\\ch03lab\\ch03lab\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5FCADDA5-8416-4D3E-9488-3DD494821DD9}|CH03Lab\\CH03Lab.csproj|solutionrelative:ch03lab\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5FCADDA5-8416-4D3E-9488-3DD494821DD9}|CH03Lab\\CH03Lab.csproj|c:\\users\\andre\\documents\\github\\awd1115-coursework-andrewhanson12\\labs\\ch03\\ch03lab\\ch03lab\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5FCADDA5-8416-4D3E-9488-3DD494821DD9}|CH03Lab\\CH03Lab.csproj|solutionrelative:ch03lab\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -22,11 +26,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\GitHub\\awd1115-coursework-andrewhanson12\\Labs\\CH03\\CH03Lab\\CH03Lab\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CH03Lab\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\andre\\Documents\\GitHub\\awd1115-coursework-andrewhanson12\\Labs\\CH03\\CH03Lab\\CH03Lab\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CH03Lab\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-06T01:20:12.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\andre\\Documents\\GitHub\\awd1115-coursework-andrewhanson12\\Labs\\CH03\\CH03Lab\\CH03Lab\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "CH03Lab\\Controllers\\HomeController.cs",
@@ -34,32 +51,34 @@
               "RelativeToolTip": "CH03Lab\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-07T14:27:32.361Z"
+              "WhenOpened": "2025-09-07T14:27:32.361Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\andre\\Documents\\GitHub\\awd1115-coursework-andrewhanson12\\Labs\\CH03\\CH03Lab\\CH03Lab\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "CH03Lab\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\andre\\Documents\\GitHub\\awd1115-coursework-andrewhanson12\\Labs\\CH03\\CH03Lab\\CH03Lab\\Views\\Home\\Index.cshtml*",
-              "RelativeToolTip": "CH03Lab\\Views\\Home\\Index.cshtml*",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAC4AAABRAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\andre\\Documents\\GitHub\\awd1115-coursework-andrewhanson12\\Labs\\CH03\\CH03Lab\\CH03Lab\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "CH03Lab\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-09-07T14:26:46.153Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "CalculatePrice.cs",
               "DocumentMoniker": "C:\\Users\\andre\\Documents\\GitHub\\awd1115-coursework-andrewhanson12\\Labs\\CH03\\CH03Lab\\CH03Lab\\Models\\CalculatePrice.cs",
               "RelativeDocumentMoniker": "CH03Lab\\Models\\CalculatePrice.cs",
               "ToolTip": "C:\\Users\\andre\\Documents\\GitHub\\awd1115-coursework-andrewhanson12\\Labs\\CH03\\CH03Lab\\CH03Lab\\Models\\CalculatePrice.cs",
               "RelativeToolTip": "CH03Lab\\Models\\CalculatePrice.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAiwBIAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-07T14:25:50.086Z"
+              "WhenOpened": "2025-09-07T14:25:50.086Z",
+              "EditorCaption": ""
             }
           ]
         }

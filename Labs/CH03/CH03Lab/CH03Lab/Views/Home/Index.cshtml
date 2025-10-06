@@ -24,9 +24,6 @@
 			<div class ="col-12 col-md-4">
 				<input asp-for="Subtotal" class="form-control" />
 			</div>
-			<div class="col-12 col-md-4">
-				<p class="text-danger">Please enter a sale price</p>
-			</div>
 		</div>
 		<div class="row align-items-center">
 			<div class="col-12 col-md-4">
@@ -35,24 +32,26 @@
 			<div class="col-12 col-md-4">
 				<input asp-for="DiscountPercent" class="form-control" />
 			</div>
-			<div class="col-12 col-md-4">
-				<p class="text-danger">Please enter a discount percent</p>
-			</div>
+		</div>
+		<div class="text-danger">
+			<span asp-validation-for="Subtotal"></span>
+			<br/>
+			<span asp-validation-for="DiscountPercent"></span>
 		</div>
 		<div class="row align-items-center">
-			<div class="col-12 col-md-6">
+			<div class="col-12 col-md-4">
 				<label class="col-form-label">Discount Amount: </label>
 			</div>
-			<div class="col-12 col-md-6">
-				<input class="form-control" value="@ViewBag.DiscountAmount.ToString("C")   />
+			<div class="col-12 col-md-4">
+				<input class="form-control" value="@ViewBag.DiscountAmount.ToString("C")" />
 			</div>
 		</div>
 		<div class="row align-items-center">
-			<div class="col-12 col-md-6">
+			<div class="col-12 col-md-4">
 				<label class="col-form-label">Total: </label>
 			</div>
-			<div class="col-12 col-md-6">
-				<input class="form-control" value="@ViewBag.Total.ToString("C")   />
+			<div class="col-12 col-md-4">
+				<input class="form-control" value="@ViewBag.Total.ToString("C")" />
 			</div>
 		</div>
 		<button type="submit" class="btn btn-success">Calculate</button>
