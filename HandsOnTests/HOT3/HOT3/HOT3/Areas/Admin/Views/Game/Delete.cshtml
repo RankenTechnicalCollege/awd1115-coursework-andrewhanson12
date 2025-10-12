@@ -1,0 +1,10 @@
+﻿@model HOT3.Models.Game
+@{
+	ViewBag.Title = "Delete Game";
+}
+
+<h1>Are you sure you want to delete? @Model.Slug</h1>
+<form asp-controller="game" asp-action="DeleteConfirm" asp-method="post">
+	<input type="hidden" asp-for="Id" />
+	<button type="submit" class="btn btn-danger">Delete</button>
+</form>
