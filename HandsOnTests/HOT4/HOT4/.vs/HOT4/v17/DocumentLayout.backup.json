@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\andre\\Documents\\GitHub\\awd1115-coursework-andrewhanson12\\HandsOnTests\\HOT4\\HOT4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{31D0B77D-C6B4-4C9C-83A9-3A3EF7E90AB3}|HOT4\\HOT4.csproj|c:\\users\\andre\\documents\\github\\awd1115-coursework-andrewhanson12\\handsontests\\hot4\\hot4\\hot4\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31D0B77D-C6B4-4C9C-83A9-3A3EF7E90AB3}|HOT4\\HOT4.csproj|solutionrelative:hot4\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31D0B77D-C6B4-4C9C-83A9-3A3EF7E90AB3}|HOT4\\HOT4.csproj|c:\\users\\andre\\documents\\github\\awd1115-coursework-andrewhanson12\\handsontests\\hot4\\hot4\\hot4\\controllers\\appointmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31D0B77D-C6B4-4C9C-83A9-3A3EF7E90AB3}|HOT4\\HOT4.csproj|solutionrelative:hot4\\controllers\\appointmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31D0B77D-C6B4-4C9C-83A9-3A3EF7E90AB3}|HOT4\\HOT4.csproj|c:\\users\\andre\\documents\\github\\awd1115-coursework-andrewhanson12\\handsontests\\hot4\\hot4\\hot4\\views\\customers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{31D0B77D-C6B4-4C9C-83A9-3A3EF7E90AB3}|HOT4\\HOT4.csproj|solutionrelative:hot4\\views\\customers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31D0B77D-C6B4-4C9C-83A9-3A3EF7E90AB3}|HOT4\\HOT4.csproj|c:\\users\\andre\\documents\\github\\awd1115-coursework-andrewhanson12\\handsontests\\hot4\\hot4\\hot4\\views\\appointments\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{31D0B77D-C6B4-4C9C-83A9-3A3EF7E90AB3}|HOT4\\HOT4.csproj|solutionrelative:hot4\\views\\appointments\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31D0B77D-C6B4-4C9C-83A9-3A3EF7E90AB3}|HOT4\\HOT4.csproj|c:\\users\\andre\\documents\\github\\awd1115-coursework-andrewhanson12\\handsontests\\hot4\\hot4\\hot4\\views\\customers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{31D0B77D-C6B4-4C9C-83A9-3A3EF7E90AB3}|HOT4\\HOT4.csproj|solutionrelative:hot4\\views\\customers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31D0B77D-C6B4-4C9C-83A9-3A3EF7E90AB3}|HOT4\\HOT4.csproj|c:\\users\\andre\\documents\\github\\awd1115-coursework-andrewhanson12\\handsontests\\hot4\\hot4\\hot4\\views\\appointments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{31D0B77D-C6B4-4C9C-83A9-3A3EF7E90AB3}|HOT4\\HOT4.csproj|solutionrelative:hot4\\views\\appointments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31D0B77D-C6B4-4C9C-83A9-3A3EF7E90AB3}|HOT4\\HOT4.csproj|c:\\users\\andre\\documents\\github\\awd1115-coursework-andrewhanson12\\handsontests\\hot4\\hot4\\hot4\\views\\customers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{31D0B77D-C6B4-4C9C-83A9-3A3EF7E90AB3}|HOT4\\HOT4.csproj|solutionrelative:hot4\\views\\customers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31D0B77D-C6B4-4C9C-83A9-3A3EF7E90AB3}|HOT4\\HOT4.csproj|c:\\users\\andre\\documents\\github\\awd1115-coursework-andrewhanson12\\handsontests\\hot4\\hot4\\hot4\\views\\appointments\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{31D0B77D-C6B4-4C9C-83A9-3A3EF7E90AB3}|HOT4\\HOT4.csproj|solutionrelative:hot4\\views\\appointments\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31D0B77D-C6B4-4C9C-83A9-3A3EF7E90AB3}|HOT4\\HOT4.csproj|c:\\users\\andre\\documents\\github\\awd1115-coursework-andrewhanson12\\handsontests\\hot4\\hot4\\hot4\\views\\appointments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{31D0B77D-C6B4-4C9C-83A9-3A3EF7E90AB3}|HOT4\\HOT4.csproj|solutionrelative:hot4\\views\\appointments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31D0B77D-C6B4-4C9C-83A9-3A3EF7E90AB3}|HOT4\\HOT4.csproj|c:\\users\\andre\\documents\\github\\awd1115-coursework-andrewhanson12\\handsontests\\hot4\\hot4\\hot4\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{31D0B77D-C6B4-4C9C-83A9-3A3EF7E90AB3}|HOT4\\HOT4.csproj|solutionrelative:hot4\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31D0B77D-C6B4-4C9C-83A9-3A3EF7E90AB3}|HOT4\\HOT4.csproj|c:\\users\\andre\\documents\\github\\awd1115-coursework-andrewhanson12\\handsontests\\hot4\\hot4\\hot4\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31D0B77D-C6B4-4C9C-83A9-3A3EF7E90AB3}|HOT4\\HOT4.csproj|solutionrelative:hot4\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31D0B77D-C6B4-4C9C-83A9-3A3EF7E90AB3}|HOT4\\HOT4.csproj|c:\\users\\andre\\documents\\github\\awd1115-coursework-andrewhanson12\\handsontests\\hot4\\hot4\\hot4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31D0B77D-C6B4-4C9C-83A9-3A3EF7E90AB3}|HOT4\\HOT4.csproj|solutionrelative:hot4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31D0B77D-C6B4-4C9C-83A9-3A3EF7E90AB3}|HOT4\\HOT4.csproj|c:\\users\\andre\\documents\\github\\awd1115-coursework-andrewhanson12\\handsontests\\hot4\\hot4\\hot4\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{31D0B77D-C6B4-4C9C-83A9-3A3EF7E90AB3}|HOT4\\HOT4.csproj|solutionrelative:hot4\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31D0B77D-C6B4-4C9C-83A9-3A3EF7E90AB3}|HOT4\\HOT4.csproj|c:\\users\\andre\\documents\\github\\awd1115-coursework-andrewhanson12\\handsontests\\hot4\\hot4\\hot4\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31D0B77D-C6B4-4C9C-83A9-3A3EF7E90AB3}|HOT4\\HOT4.csproj|solutionrelative:hot4\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31D0B77D-C6B4-4C9C-83A9-3A3EF7E90AB3}|HOT4\\HOT4.csproj|c:\\users\\andre\\documents\\github\\awd1115-coursework-andrewhanson12\\handsontests\\hot4\\hot4\\hot4\\models\\customercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31D0B77D-C6B4-4C9C-83A9-3A3EF7E90AB3}|HOT4\\HOT4.csproj|solutionrelative:hot4\\models\\customercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\GitHub\\awd1115-coursework-andrewhanson12\\HandsOnTests\\HOT4\\HOT4\\HOT4\\Views\\Customers\\Delete.cshtml",
+              "RelativeDocumentMoniker": "HOT4\\Views\\Customers\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\andre\\Documents\\GitHub\\awd1115-coursework-andrewhanson12\\HandsOnTests\\HOT4\\HOT4\\HOT4\\Views\\Customers\\Delete.cshtml",
+              "RelativeToolTip": "HOT4\\Views\\Customers\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-02T23:50:59.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\GitHub\\awd1115-coursework-andrewhanson12\\HandsOnTests\\HOT4\\HOT4\\HOT4\\Views\\Appointments\\Delete.cshtml",
+              "RelativeDocumentMoniker": "HOT4\\Views\\Appointments\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\andre\\Documents\\GitHub\\awd1115-coursework-andrewhanson12\\HandsOnTests\\HOT4\\HOT4\\HOT4\\Views\\Appointments\\Delete.cshtml",
+              "RelativeToolTip": "HOT4\\Views\\Appointments\\Delete.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAhwCEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-02T23:48:22.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\GitHub\\awd1115-coursework-andrewhanson12\\HandsOnTests\\HOT4\\HOT4\\HOT4\\Views\\Appointments\\Index.cshtml",
+              "RelativeDocumentMoniker": "HOT4\\Views\\Appointments\\Index.cshtml",
+              "ToolTip": "C:\\Users\\andre\\Documents\\GitHub\\awd1115-coursework-andrewhanson12\\HandsOnTests\\HOT4\\HOT4\\HOT4\\Views\\Appointments\\Index.cshtml",
+              "RelativeToolTip": "HOT4\\Views\\Appointments\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-02T23:24:58.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\GitHub\\awd1115-coursework-andrewhanson12\\HandsOnTests\\HOT4\\HOT4\\HOT4\\Views\\Customers\\Create.cshtml",
+              "RelativeDocumentMoniker": "HOT4\\Views\\Customers\\Create.cshtml",
+              "ToolTip": "C:\\Users\\andre\\Documents\\GitHub\\awd1115-coursework-andrewhanson12\\HandsOnTests\\HOT4\\HOT4\\HOT4\\Views\\Customers\\Create.cshtml",
+              "RelativeToolTip": "HOT4\\Views\\Customers\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-02T23:23:12.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\GitHub\\awd1115-coursework-andrewhanson12\\HandsOnTests\\HOT4\\HOT4\\HOT4\\Views\\Customers\\Index.cshtml",
+              "RelativeDocumentMoniker": "HOT4\\Views\\Customers\\Index.cshtml",
+              "ToolTip": "C:\\Users\\andre\\Documents\\GitHub\\awd1115-coursework-andrewhanson12\\HandsOnTests\\HOT4\\HOT4\\HOT4\\Views\\Customers\\Index.cshtml",
+              "RelativeToolTip": "HOT4\\Views\\Customers\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-02T23:20:18.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppointmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\GitHub\\awd1115-coursework-andrewhanson12\\HandsOnTests\\HOT4\\HOT4\\HOT4\\Controllers\\AppointmentsController.cs",
+              "RelativeDocumentMoniker": "HOT4\\Controllers\\AppointmentsController.cs",
+              "ToolTip": "C:\\Users\\andre\\Documents\\GitHub\\awd1115-coursework-andrewhanson12\\HandsOnTests\\HOT4\\HOT4\\HOT4\\Controllers\\AppointmentsController.cs",
+              "RelativeToolTip": "HOT4\\Controllers\\AppointmentsController.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAAAFMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T23:09:43.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\GitHub\\awd1115-coursework-andrewhanson12\\HandsOnTests\\HOT4\\HOT4\\HOT4\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "HOT4\\Controllers\\CustomersController.cs",
+              "ToolTip": "C:\\Users\\andre\\Documents\\GitHub\\awd1115-coursework-andrewhanson12\\HandsOnTests\\HOT4\\HOT4\\HOT4\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "HOT4\\Controllers\\CustomersController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAkwCoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T23:05:21.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\GitHub\\awd1115-coursework-andrewhanson12\\HandsOnTests\\HOT4\\HOT4\\HOT4\\Views\\Appointments\\Edit.cshtml",
+              "RelativeDocumentMoniker": "HOT4\\Views\\Appointments\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\andre\\Documents\\GitHub\\awd1115-coursework-andrewhanson12\\HandsOnTests\\HOT4\\HOT4\\HOT4\\Views\\Appointments\\Edit.cshtml",
+              "RelativeToolTip": "HOT4\\Views\\Appointments\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-02T23:27:51.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\GitHub\\awd1115-coursework-andrewhanson12\\HandsOnTests\\HOT4\\HOT4\\HOT4\\Views\\Appointments\\Create.cshtml",
+              "RelativeDocumentMoniker": "HOT4\\Views\\Appointments\\Create.cshtml",
+              "ToolTip": "C:\\Users\\andre\\Documents\\GitHub\\awd1115-coursework-andrewhanson12\\HandsOnTests\\HOT4\\HOT4\\HOT4\\Views\\Appointments\\Create.cshtml",
+              "RelativeToolTip": "HOT4\\Views\\Appointments\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-02T23:25:34.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\GitHub\\awd1115-coursework-andrewhanson12\\HandsOnTests\\HOT4\\HOT4\\HOT4\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "HOT4\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\andre\\Documents\\GitHub\\awd1115-coursework-andrewhanson12\\HandsOnTests\\HOT4\\HOT4\\HOT4\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "HOT4\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAACHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-02T23:28:08.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\GitHub\\awd1115-coursework-andrewhanson12\\HandsOnTests\\HOT4\\HOT4\\HOT4\\Program.cs",
+              "RelativeDocumentMoniker": "HOT4\\Program.cs",
+              "ToolTip": "C:\\Users\\andre\\Documents\\GitHub\\awd1115-coursework-andrewhanson12\\HandsOnTests\\HOT4\\HOT4\\HOT4\\Program.cs",
+              "RelativeToolTip": "HOT4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T22:43:38.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\GitHub\\awd1115-coursework-andrewhanson12\\HandsOnTests\\HOT4\\HOT4\\HOT4\\appsettings.json",
+              "RelativeDocumentMoniker": "HOT4\\appsettings.json",
+              "ToolTip": "C:\\Users\\andre\\Documents\\GitHub\\awd1115-coursework-andrewhanson12\\HandsOnTests\\HOT4\\HOT4\\HOT4\\appsettings.json",
+              "RelativeToolTip": "HOT4\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-02T22:42:55.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CustomerContext.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\GitHub\\awd1115-coursework-andrewhanson12\\HandsOnTests\\HOT4\\HOT4\\HOT4\\Models\\CustomerContext.cs",
+              "RelativeDocumentMoniker": "HOT4\\Models\\CustomerContext.cs",
+              "ToolTip": "C:\\Users\\andre\\Documents\\GitHub\\awd1115-coursework-andrewhanson12\\HandsOnTests\\HOT4\\HOT4\\HOT4\\Models\\CustomerContext.cs",
+              "RelativeToolTip": "HOT4\\Models\\CustomerContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T22:37:50.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\GitHub\\awd1115-coursework-andrewhanson12\\HandsOnTests\\HOT4\\HOT4\\HOT4\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "HOT4\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\andre\\Documents\\GitHub\\awd1115-coursework-andrewhanson12\\HandsOnTests\\HOT4\\HOT4\\HOT4\\Models\\Customer.cs",
+              "RelativeToolTip": "HOT4\\Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T22:34:45.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\GitHub\\awd1115-coursework-andrewhanson12\\HandsOnTests\\HOT4\\HOT4\\HOT4\\Models\\Appointment.cs",
+              "RelativeDocumentMoniker": "HOT4\\Models\\Appointment.cs",
+              "ToolTip": "C:\\Users\\andre\\Documents\\GitHub\\awd1115-coursework-andrewhanson12\\HandsOnTests\\HOT4\\HOT4\\HOT4\\Models\\Appointment.cs",
+              "RelativeToolTip": "HOT4\\Models\\Appointment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T22:32:27.634Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

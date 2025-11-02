@@ -1,0 +1,37 @@
+﻿@model IEnumerable<HOT4.Models.Appointment>
+@{
+    ViewData["Title"] = "Appointments";
+}
+
+<h2>Appointments</h2>
+
+
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Start Time</th>
+            <th>End Time</th>
+            <th>Customer</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var a in Model)
+        {
+            <tr>
+                <td>@a.StartDate.ToString("g")</td>
+                <td>@a.EndDate.ToString("g")</td>
+                <td>@a.Customer?.Username</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@a.Id" class="btn btn-sm btn-warning">Edit</a>
+					<a asp-action="Delete" asp-route-id="@a.Id" class="btn btn-sm btn-danger">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<div>
+    <a asp-action="Create" class="btn btn-primary">New Appointment</a>
+</div>
