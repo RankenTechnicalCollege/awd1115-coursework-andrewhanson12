@@ -1,0 +1,20 @@
+﻿@CarInventory_HostAddress = https://localhost:7025
+
+POST {{CarInventory_HostAddress}}/cars
+
+###
+
+GET {{CarInventory_HostAddress}}/cars
+
+###
+
+POST {{CarInventory_HostAddress}}/cars
+Content-Type: application/json
+{
+  "make": "Toyota",
+  "model": "Camry",
+  "isavailable": true,
+  "secret": "Blue",
+}
+
+###
