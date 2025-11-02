@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\andre\\Documents\\GitHub\\awd1115-coursework-andrewhanson12\\Labs\\CH11\\Project11_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E230687-4020-458E-8420-88D1F50D9995}|EmployeeValidation\\EmployeeValidation.csproj|c:\\users\\andre\\documents\\github\\awd1115-coursework-andrewhanson12\\labs\\ch11\\project11_1\\employeevalidation\\views\\employee\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E230687-4020-458E-8420-88D1F50D9995}|EmployeeValidation\\EmployeeValidation.csproj|solutionrelative:employeevalidation\\views\\employee\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E230687-4020-458E-8420-88D1F50D9995}|EmployeeValidation\\EmployeeValidation.csproj|c:\\users\\andre\\documents\\github\\awd1115-coursework-andrewhanson12\\labs\\ch11\\project11_1\\employeevalidation\\views\\sales\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E230687-4020-458E-8420-88D1F50D9995}|EmployeeValidation\\EmployeeValidation.csproj|solutionrelative:employeevalidation\\views\\sales\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E230687-4020-458E-8420-88D1F50D9995}|EmployeeValidation\\EmployeeValidation.csproj|c:\\users\\andre\\documents\\github\\awd1115-coursework-andrewhanson12\\labs\\ch11\\project11_1\\employeevalidation\\controllers\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E230687-4020-458E-8420-88D1F50D9995}|EmployeeValidation\\EmployeeValidation.csproj|solutionrelative:employeevalidation\\controllers\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E230687-4020-458E-8420-88D1F50D9995}|EmployeeValidation\\EmployeeValidation.csproj|c:\\users\\andre\\documents\\github\\awd1115-coursework-andrewhanson12\\labs\\ch11\\project11_1\\employeevalidation\\models\\sales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E230687-4020-458E-8420-88D1F50D9995}|EmployeeValidation\\EmployeeValidation.csproj|solutionrelative:employeevalidation\\models\\sales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E230687-4020-458E-8420-88D1F50D9995}|EmployeeValidation\\EmployeeValidation.csproj|c:\\users\\andre\\documents\\github\\awd1115-coursework-andrewhanson12\\labs\\ch11\\project11_1\\employeevalidation\\controllers\\validationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E230687-4020-458E-8420-88D1F50D9995}|EmployeeValidation\\EmployeeValidation.csproj|solutionrelative:employeevalidation\\controllers\\validationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E230687-4020-458E-8420-88D1F50D9995}|EmployeeValidation\\EmployeeValidation.csproj|c:\\users\\andre\\documents\\github\\awd1115-coursework-andrewhanson12\\labs\\ch11\\project11_1\\employeevalidation\\models\\validation\\validate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E230687-4020-458E-8420-88D1F50D9995}|EmployeeValidation\\EmployeeValidation.csproj|solutionrelative:employeevalidation\\models\\validation\\validate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E230687-4020-458E-8420-88D1F50D9995}|EmployeeValidation\\EmployeeValidation.csproj|c:\\users\\andre\\documents\\github\\awd1115-coursework-andrewhanson12\\labs\\ch11\\project11_1\\employeevalidation\\models\\validation\\greaterthanattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E230687-4020-458E-8420-88D1F50D9995}|EmployeeValidation\\EmployeeValidation.csproj|solutionrelative:employeevalidation\\models\\validation\\greaterthanattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\GitHub\\awd1115-coursework-andrewhanson12\\Labs\\CH11\\Project11_1\\EmployeeValidation\\Views\\Employee\\Add.cshtml",
+              "RelativeDocumentMoniker": "EmployeeValidation\\Views\\Employee\\Add.cshtml",
+              "ToolTip": "C:\\Users\\andre\\Documents\\GitHub\\awd1115-coursework-andrewhanson12\\Labs\\CH11\\Project11_1\\EmployeeValidation\\Views\\Employee\\Add.cshtml*",
+              "RelativeToolTip": "EmployeeValidation\\Views\\Employee\\Add.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-02T22:06:54.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ValidationController.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\GitHub\\awd1115-coursework-andrewhanson12\\Labs\\CH11\\Project11_1\\EmployeeValidation\\Controllers\\ValidationController.cs",
+              "RelativeDocumentMoniker": "EmployeeValidation\\Controllers\\ValidationController.cs",
+              "ToolTip": "C:\\Users\\andre\\Documents\\GitHub\\awd1115-coursework-andrewhanson12\\Labs\\CH11\\Project11_1\\EmployeeValidation\\Controllers\\ValidationController.cs*",
+              "RelativeToolTip": "EmployeeValidation\\Controllers\\ValidationController.cs*",
+              "ViewState": "AgIAACsAAAAAAAAAAAAQwDEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T21:57:06.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Validate.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\GitHub\\awd1115-coursework-andrewhanson12\\Labs\\CH11\\Project11_1\\EmployeeValidation\\Models\\Validation\\Validate.cs",
+              "RelativeDocumentMoniker": "EmployeeValidation\\Models\\Validation\\Validate.cs",
+              "ToolTip": "C:\\Users\\andre\\Documents\\GitHub\\awd1115-coursework-andrewhanson12\\Labs\\CH11\\Project11_1\\EmployeeValidation\\Models\\Validation\\Validate.cs*",
+              "RelativeToolTip": "EmployeeValidation\\Models\\Validation\\Validate.cs*",
+              "ViewState": "AgIAABUAAAAAAAAAAADgvykAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T21:51:45.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\GitHub\\awd1115-coursework-andrewhanson12\\Labs\\CH11\\Project11_1\\EmployeeValidation\\Views\\Sales\\Add.cshtml",
+              "RelativeDocumentMoniker": "EmployeeValidation\\Views\\Sales\\Add.cshtml",
+              "ToolTip": "C:\\Users\\andre\\Documents\\GitHub\\awd1115-coursework-andrewhanson12\\Labs\\CH11\\Project11_1\\EmployeeValidation\\Views\\Sales\\Add.cshtml*",
+              "RelativeToolTip": "EmployeeValidation\\Views\\Sales\\Add.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-02T21:30:43.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SalesController.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\GitHub\\awd1115-coursework-andrewhanson12\\Labs\\CH11\\Project11_1\\EmployeeValidation\\Controllers\\SalesController.cs",
+              "RelativeDocumentMoniker": "EmployeeValidation\\Controllers\\SalesController.cs",
+              "ToolTip": "C:\\Users\\andre\\Documents\\GitHub\\awd1115-coursework-andrewhanson12\\Labs\\CH11\\Project11_1\\EmployeeValidation\\Controllers\\SalesController.cs",
+              "RelativeToolTip": "EmployeeValidation\\Controllers\\SalesController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBYAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T21:27:43.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GreaterThanAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\GitHub\\awd1115-coursework-andrewhanson12\\Labs\\CH11\\Project11_1\\EmployeeValidation\\Models\\Validation\\GreaterThanAttribute.cs",
+              "RelativeDocumentMoniker": "EmployeeValidation\\Models\\Validation\\GreaterThanAttribute.cs",
+              "ToolTip": "C:\\Users\\andre\\Documents\\GitHub\\awd1115-coursework-andrewhanson12\\Labs\\CH11\\Project11_1\\EmployeeValidation\\Models\\Validation\\GreaterThanAttribute.cs",
+              "RelativeToolTip": "EmployeeValidation\\Models\\Validation\\GreaterThanAttribute.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCUAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T21:19:10.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Sales.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\GitHub\\awd1115-coursework-andrewhanson12\\Labs\\CH11\\Project11_1\\EmployeeValidation\\Models\\Sales.cs",
+              "RelativeDocumentMoniker": "EmployeeValidation\\Models\\Sales.cs",
+              "ToolTip": "C:\\Users\\andre\\Documents\\GitHub\\awd1115-coursework-andrewhanson12\\Labs\\CH11\\Project11_1\\EmployeeValidation\\Models\\Sales.cs*",
+              "RelativeToolTip": "EmployeeValidation\\Models\\Sales.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T21:17:47.562Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
