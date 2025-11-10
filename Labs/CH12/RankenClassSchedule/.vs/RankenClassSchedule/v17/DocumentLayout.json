@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\andre\\Documents\\GitHub\\awd1115-coursework-andrewhanson12\\Labs\\CH12\\RankenClassSchedule\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF4A861F-6E8C-4BB6-8315-DD229307044A}|RankenClassSchedule\\RankenClassSchedule.csproj|c:\\users\\andre\\documents\\github\\awd1115-coursework-andrewhanson12\\labs\\ch12\\rankenclassschedule\\rankenclassschedule\\controllers\\classcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF4A861F-6E8C-4BB6-8315-DD229307044A}|RankenClassSchedule\\RankenClassSchedule.csproj|solutionrelative:rankenclassschedule\\controllers\\classcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF4A861F-6E8C-4BB6-8315-DD229307044A}|RankenClassSchedule\\RankenClassSchedule.csproj|c:\\users\\andre\\documents\\github\\awd1115-coursework-andrewhanson12\\labs\\ch12\\rankenclassschedule\\rankenclassschedule\\views\\class\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF4A861F-6E8C-4BB6-8315-DD229307044A}|RankenClassSchedule\\RankenClassSchedule.csproj|solutionrelative:rankenclassschedule\\views\\class\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF4A861F-6E8C-4BB6-8315-DD229307044A}|RankenClassSchedule\\RankenClassSchedule.csproj|c:\\users\\andre\\documents\\github\\awd1115-coursework-andrewhanson12\\labs\\ch12\\rankenclassschedule\\rankenclassschedule\\views\\class\\addedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF4A861F-6E8C-4BB6-8315-DD229307044A}|RankenClassSchedule\\RankenClassSchedule.csproj|solutionrelative:rankenclassschedule\\views\\class\\addedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF4A861F-6E8C-4BB6-8315-DD229307044A}|RankenClassSchedule\\RankenClassSchedule.csproj|c:\\users\\andre\\documents\\github\\awd1115-coursework-andrewhanson12\\labs\\ch12\\rankenclassschedule\\rankenclassschedule\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF4A861F-6E8C-4BB6-8315-DD229307044A}|RankenClassSchedule\\RankenClassSchedule.csproj|solutionrelative:rankenclassschedule\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF4A861F-6E8C-4BB6-8315-DD229307044A}|RankenClassSchedule\\RankenClassSchedule.csproj|c:\\users\\andre\\documents\\github\\awd1115-coursework-andrewhanson12\\labs\\ch12\\rankenclassschedule\\rankenclassschedule\\views\\teacher\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF4A861F-6E8C-4BB6-8315-DD229307044A}|RankenClassSchedule\\RankenClassSchedule.csproj|solutionrelative:rankenclassschedule\\views\\teacher\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF4A861F-6E8C-4BB6-8315-DD229307044A}|RankenClassSchedule\\RankenClassSchedule.csproj|c:\\users\\andre\\documents\\github\\awd1115-coursework-andrewhanson12\\labs\\ch12\\rankenclassschedule\\rankenclassschedule\\views\\teacher\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF4A861F-6E8C-4BB6-8315-DD229307044A}|RankenClassSchedule\\RankenClassSchedule.csproj|solutionrelative:rankenclassschedule\\views\\teacher\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF4A861F-6E8C-4BB6-8315-DD229307044A}|RankenClassSchedule\\RankenClassSchedule.csproj|c:\\users\\andre\\documents\\github\\awd1115-coursework-andrewhanson12\\labs\\ch12\\rankenclassschedule\\rankenclassschedule\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF4A861F-6E8C-4BB6-8315-DD229307044A}|RankenClassSchedule\\RankenClassSchedule.csproj|solutionrelative:rankenclassschedule\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF4A861F-6E8C-4BB6-8315-DD229307044A}|RankenClassSchedule\\RankenClassSchedule.csproj|c:\\users\\andre\\documents\\github\\awd1115-coursework-andrewhanson12\\labs\\ch12\\rankenclassschedule\\rankenclassschedule\\views\\teacher\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF4A861F-6E8C-4BB6-8315-DD229307044A}|RankenClassSchedule\\RankenClassSchedule.csproj|solutionrelative:rankenclassschedule\\views\\teacher\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\GitHub\\awd1115-coursework-andrewhanson12\\Labs\\CH12\\RankenClassSchedule\\RankenClassSchedule\\Views\\Class\\Delete.cshtml",
+              "RelativeDocumentMoniker": "RankenClassSchedule\\Views\\Class\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\andre\\Documents\\GitHub\\awd1115-coursework-andrewhanson12\\Labs\\CH12\\RankenClassSchedule\\RankenClassSchedule\\Views\\Class\\Delete.cshtml",
+              "RelativeToolTip": "RankenClassSchedule\\Views\\Class\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-09T23:49:04.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddEdit.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\GitHub\\awd1115-coursework-andrewhanson12\\Labs\\CH12\\RankenClassSchedule\\RankenClassSchedule\\Views\\Class\\AddEdit.cshtml",
+              "RelativeDocumentMoniker": "RankenClassSchedule\\Views\\Class\\AddEdit.cshtml",
+              "ToolTip": "C:\\Users\\andre\\Documents\\GitHub\\awd1115-coursework-andrewhanson12\\Labs\\CH12\\RankenClassSchedule\\RankenClassSchedule\\Views\\Class\\AddEdit.cshtml",
+              "RelativeToolTip": "RankenClassSchedule\\Views\\Class\\AddEdit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-09T23:31:22.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClassController.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\GitHub\\awd1115-coursework-andrewhanson12\\Labs\\CH12\\RankenClassSchedule\\RankenClassSchedule\\Controllers\\ClassController.cs",
+              "RelativeDocumentMoniker": "RankenClassSchedule\\Controllers\\ClassController.cs",
+              "ToolTip": "C:\\Users\\andre\\Documents\\GitHub\\awd1115-coursework-andrewhanson12\\Labs\\CH12\\RankenClassSchedule\\RankenClassSchedule\\Controllers\\ClassController.cs",
+              "RelativeToolTip": "RankenClassSchedule\\Controllers\\ClassController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwDsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T23:23:33.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\GitHub\\awd1115-coursework-andrewhanson12\\Labs\\CH12\\RankenClassSchedule\\RankenClassSchedule\\Views\\Teacher\\Delete.cshtml",
+              "RelativeDocumentMoniker": "RankenClassSchedule\\Views\\Teacher\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\andre\\Documents\\GitHub\\awd1115-coursework-andrewhanson12\\Labs\\CH12\\RankenClassSchedule\\RankenClassSchedule\\Views\\Teacher\\Delete.cshtml",
+              "RelativeToolTip": "RankenClassSchedule\\Views\\Teacher\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-09T23:16:47.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\GitHub\\awd1115-coursework-andrewhanson12\\Labs\\CH12\\RankenClassSchedule\\RankenClassSchedule\\Views\\Teacher\\Add.cshtml",
+              "RelativeDocumentMoniker": "RankenClassSchedule\\Views\\Teacher\\Add.cshtml",
+              "ToolTip": "C:\\Users\\andre\\Documents\\GitHub\\awd1115-coursework-andrewhanson12\\Labs\\CH12\\RankenClassSchedule\\RankenClassSchedule\\Views\\Teacher\\Add.cshtml",
+              "RelativeToolTip": "RankenClassSchedule\\Views\\Teacher\\Add.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-09T23:10:15.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\GitHub\\awd1115-coursework-andrewhanson12\\Labs\\CH12\\RankenClassSchedule\\RankenClassSchedule\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "RankenClassSchedule\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\andre\\Documents\\GitHub\\awd1115-coursework-andrewhanson12\\Labs\\CH12\\RankenClassSchedule\\RankenClassSchedule\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "RankenClassSchedule\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAACHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-09T23:07:50.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\GitHub\\awd1115-coursework-andrewhanson12\\Labs\\CH12\\RankenClassSchedule\\RankenClassSchedule\\Views\\Teacher\\Index.cshtml",
+              "RelativeDocumentMoniker": "RankenClassSchedule\\Views\\Teacher\\Index.cshtml",
+              "ToolTip": "C:\\Users\\andre\\Documents\\GitHub\\awd1115-coursework-andrewhanson12\\Labs\\CH12\\RankenClassSchedule\\RankenClassSchedule\\Views\\Teacher\\Index.cshtml",
+              "RelativeToolTip": "RankenClassSchedule\\Views\\Teacher\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-09T23:03:01.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TeacherController.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\GitHub\\awd1115-coursework-andrewhanson12\\Labs\\CH12\\RankenClassSchedule\\RankenClassSchedule\\Controllers\\TeacherController.cs",
+              "RelativeDocumentMoniker": "RankenClassSchedule\\Controllers\\TeacherController.cs",
+              "ToolTip": "C:\\Users\\andre\\Documents\\GitHub\\awd1115-coursework-andrewhanson12\\Labs\\CH12\\RankenClassSchedule\\RankenClassSchedule\\Controllers\\TeacherController.cs",
+              "RelativeToolTip": "RankenClassSchedule\\Controllers\\TeacherController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAgwCsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T22:58:31.72Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
