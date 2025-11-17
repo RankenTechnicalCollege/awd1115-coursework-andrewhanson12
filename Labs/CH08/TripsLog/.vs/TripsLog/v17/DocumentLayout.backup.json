@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\andre\\Documents\\GitHub\\awd1115-coursework-andrewhanson12\\Labs\\CH08\\TripsLog\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5376E519-3244-4E2B-B9CF-3BCDAA938B27}|TripsLog\\TripsLog.csproj|c:\\users\\andre\\documents\\github\\awd1115-coursework-andrewhanson12\\labs\\ch08\\tripslog\\tripslog\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5376E519-3244-4E2B-B9CF-3BCDAA938B27}|TripsLog\\TripsLog.csproj|solutionrelative:tripslog\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5376E519-3244-4E2B-B9CF-3BCDAA938B27}|TripsLog\\TripsLog.csproj|c:\\users\\andre\\documents\\github\\awd1115-coursework-andrewhanson12\\labs\\ch08\\tripslog\\tripslog\\views\\home\\addstep1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5376E519-3244-4E2B-B9CF-3BCDAA938B27}|TripsLog\\TripsLog.csproj|solutionrelative:tripslog\\views\\home\\addstep1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5376E519-3244-4E2B-B9CF-3BCDAA938B27}|TripsLog\\TripsLog.csproj|c:\\users\\andre\\documents\\github\\awd1115-coursework-andrewhanson12\\labs\\ch08\\tripslog\\tripslog\\views\\home\\addstep3.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5376E519-3244-4E2B-B9CF-3BCDAA938B27}|TripsLog\\TripsLog.csproj|solutionrelative:tripslog\\views\\home\\addstep3.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5376E519-3244-4E2B-B9CF-3BCDAA938B27}|TripsLog\\TripsLog.csproj|c:\\users\\andre\\documents\\github\\awd1115-coursework-andrewhanson12\\labs\\ch08\\tripslog\\tripslog\\views\\home\\addstep2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5376E519-3244-4E2B-B9CF-3BCDAA938B27}|TripsLog\\TripsLog.csproj|solutionrelative:tripslog\\views\\home\\addstep2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5376E519-3244-4E2B-B9CF-3BCDAA938B27}|TripsLog\\TripsLog.csproj|c:\\users\\andre\\documents\\github\\awd1115-coursework-andrewhanson12\\labs\\ch08\\tripslog\\tripslog\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5376E519-3244-4E2B-B9CF-3BCDAA938B27}|TripsLog\\TripsLog.csproj|solutionrelative:tripslog\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5376E519-3244-4E2B-B9CF-3BCDAA938B27}|TripsLog\\TripsLog.csproj|c:\\users\\andre\\documents\\github\\awd1115-coursework-andrewhanson12\\labs\\ch08\\tripslog\\tripslog\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5376E519-3244-4E2B-B9CF-3BCDAA938B27}|TripsLog\\TripsLog.csproj|solutionrelative:tripslog\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5376E519-3244-4E2B-B9CF-3BCDAA938B27}|TripsLog\\TripsLog.csproj|c:\\users\\andre\\documents\\github\\awd1115-coursework-andrewhanson12\\labs\\ch08\\tripslog\\tripslog\\models\\tripcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5376E519-3244-4E2B-B9CF-3BCDAA938B27}|TripsLog\\TripsLog.csproj|solutionrelative:tripslog\\models\\tripcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5376E519-3244-4E2B-B9CF-3BCDAA938B27}|TripsLog\\TripsLog.csproj|c:\\users\\andre\\documents\\github\\awd1115-coursework-andrewhanson12\\labs\\ch08\\tripslog\\tripslog\\models\\trip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5376E519-3244-4E2B-B9CF-3BCDAA938B27}|TripsLog\\TripsLog.csproj|solutionrelative:tripslog\\models\\trip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddStep3.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\GitHub\\awd1115-coursework-andrewhanson12\\Labs\\CH08\\TripsLog\\TripsLog\\Views\\Home\\AddStep3.cshtml",
+              "RelativeDocumentMoniker": "TripsLog\\Views\\Home\\AddStep3.cshtml",
+              "ToolTip": "C:\\Users\\andre\\Documents\\GitHub\\awd1115-coursework-andrewhanson12\\Labs\\CH08\\TripsLog\\TripsLog\\Views\\Home\\AddStep3.cshtml",
+              "RelativeToolTip": "TripsLog\\Views\\Home\\AddStep3.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-16T22:50:00.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddStep2.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\GitHub\\awd1115-coursework-andrewhanson12\\Labs\\CH08\\TripsLog\\TripsLog\\Views\\Home\\AddStep2.cshtml",
+              "RelativeDocumentMoniker": "TripsLog\\Views\\Home\\AddStep2.cshtml",
+              "ToolTip": "C:\\Users\\andre\\Documents\\GitHub\\awd1115-coursework-andrewhanson12\\Labs\\CH08\\TripsLog\\TripsLog\\Views\\Home\\AddStep2.cshtml",
+              "RelativeToolTip": "TripsLog\\Views\\Home\\AddStep2.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-16T22:49:49.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddStep1.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\GitHub\\awd1115-coursework-andrewhanson12\\Labs\\CH08\\TripsLog\\TripsLog\\Views\\Home\\AddStep1.cshtml",
+              "RelativeDocumentMoniker": "TripsLog\\Views\\Home\\AddStep1.cshtml",
+              "ToolTip": "C:\\Users\\andre\\Documents\\GitHub\\awd1115-coursework-andrewhanson12\\Labs\\CH08\\TripsLog\\TripsLog\\Views\\Home\\AddStep1.cshtml",
+              "RelativeToolTip": "TripsLog\\Views\\Home\\AddStep1.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-16T22:49:37.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\GitHub\\awd1115-coursework-andrewhanson12\\Labs\\CH08\\TripsLog\\TripsLog\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "TripsLog\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\andre\\Documents\\GitHub\\awd1115-coursework-andrewhanson12\\Labs\\CH08\\TripsLog\\TripsLog\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "TripsLog\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-16T22:47:39.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\GitHub\\awd1115-coursework-andrewhanson12\\Labs\\CH08\\TripsLog\\TripsLog\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "TripsLog\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\andre\\Documents\\GitHub\\awd1115-coursework-andrewhanson12\\Labs\\CH08\\TripsLog\\TripsLog\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "TripsLog\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-16T22:45:47.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\GitHub\\awd1115-coursework-andrewhanson12\\Labs\\CH08\\TripsLog\\TripsLog\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "TripsLog\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\andre\\Documents\\GitHub\\awd1115-coursework-andrewhanson12\\Labs\\CH08\\TripsLog\\TripsLog\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "TripsLog\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwDIAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T22:45:00.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TripContext.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\GitHub\\awd1115-coursework-andrewhanson12\\Labs\\CH08\\TripsLog\\TripsLog\\Models\\TripContext.cs",
+              "RelativeDocumentMoniker": "TripsLog\\Models\\TripContext.cs",
+              "ToolTip": "C:\\Users\\andre\\Documents\\GitHub\\awd1115-coursework-andrewhanson12\\Labs\\CH08\\TripsLog\\TripsLog\\Models\\TripContext.cs",
+              "RelativeToolTip": "TripsLog\\Models\\TripContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T22:42:13.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Trip.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\GitHub\\awd1115-coursework-andrewhanson12\\Labs\\CH08\\TripsLog\\TripsLog\\Models\\Trip.cs",
+              "RelativeDocumentMoniker": "TripsLog\\Models\\Trip.cs",
+              "ToolTip": "C:\\Users\\andre\\Documents\\GitHub\\awd1115-coursework-andrewhanson12\\Labs\\CH08\\TripsLog\\TripsLog\\Models\\Trip.cs",
+              "RelativeToolTip": "TripsLog\\Models\\Trip.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T22:41:27.885Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

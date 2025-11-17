@@ -1,0 +1,29 @@
+﻿@model IEnumerable<TripsLog.Models.Destination>
+
+@if (ViewBag.Error != null)
+{
+    <div class="alert alert-danger">@ViewBag.Error</div>
+}
+
+<h3>Add Destination</h3>
+<form asp-action="AddDestination" method="post">
+    <input name="name" class="form-control" />
+    <button type="submit" class="btn btn-primary mt-2">Add Destination</button>
+</form>
+
+<h3 class="mt-4">Existing Destinations</h3>
+<table class="table">
+    @foreach (var d in Model)
+    {
+        <tr>
+            <td>@d.Name</td>
+            <td>
+                <form asp-action="DeleteDestination" method="post">
+                    <input type="hidden" name="id" value="@d.DestinationId" />
+                    <button type="submit" class="btn btn-danger">Delete</button>
+                </form>
+            </td>
+        </tr>
+    }
+</table>
+

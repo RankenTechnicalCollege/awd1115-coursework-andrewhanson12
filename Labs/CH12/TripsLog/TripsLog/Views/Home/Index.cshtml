@@ -1,0 +1,48 @@
+﻿@model IEnumerable<TripsLog.Models.Trip>
+
+@if (TempData["Message"] != null)
+{
+    <div class="alert alert-success">@TempData["Message"]</div>
+}
+<div>
+    <a asp-action="AddStep1" class="btn btn-primary">Add Trip</a>
+</div>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Destination</th>
+            <th>Start</th>
+            <th>End</th>
+            <th>Accommodations</th>
+            <th>Things To Do</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var t in Model)
+        {
+            <tr>
+                <td>@t.Destination.Name</td>
+                <td>@t.StartDate.ToShortDateString()</td>
+                <td>@t.EndDate.ToShortDateString()</td>
+                <td>
+                    @t.Accommodation.Name<br />
+                    @t.Accommodation.Phone<br />
+                    @t.Accommodation.Email
+                </td>
+                <td>
+                    @string.Join(", ", t.TripActivities.Select(ta => ta.Activity.Name))
+                </td>
+                <td>
+                    <form asp-action="DeleteTrip" method="post">
+                        <input type="hidden" name="id" value="@t.TripId" />
+                        <button type="submit" class="btn btn-danger">Delete</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+

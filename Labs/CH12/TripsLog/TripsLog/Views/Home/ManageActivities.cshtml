@@ -1,0 +1,47 @@
+﻿@model IEnumerable<TripsLog.Models.Activity>
+
+@{
+    ViewBag.Title = "Manage Activities";
+}
+
+@if (ViewBag.Error != null)
+{
+    <div class="alert alert-danger">@ViewBag.Error</div>
+}
+
+<h3>Add Activity</h3>
+
+<form asp-action="AddActivity" method="post">
+    <div class="mb-3">
+        <label>Name</label>
+        <input name="name" class="form-control" />
+    </div>
+
+    <button type="submit" class="btn btn-primary">Add Activity</button>
+</form>
+
+<h3 class="mt-4">Existing Activities</h3>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var act in Model)
+        {
+            <tr>
+                <td>@act.Name</td>
+                <td>
+                    <form asp-action="DeleteActivity" method="post">
+                        <input type="hidden" name="id" value="@act.ActivityId" />
+                        <button type="submit" class="btn btn-danger">Delete</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+

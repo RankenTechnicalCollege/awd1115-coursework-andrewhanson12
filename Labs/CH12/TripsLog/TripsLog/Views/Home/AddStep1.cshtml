@@ -1,0 +1,37 @@
+﻿@{
+    var destinations = (SelectList)ViewBag.Destinations;
+    var accommodations = (SelectList)ViewBag.Accommodations;
+}
+
+<form asp-action="AddStep1" method="post">
+    <div class="mb-3">
+        <label>Destination</label>
+        <select name="destinationId" class="form-control" asp-items="destinations">
+            <option value="0">Select destination</option>
+        </select>
+        <span class="text-danger">@Html.ValidationMessage("DestinationId")</span>
+    </div>
+
+    <div class="mb-3">
+        <label>Accommodation</label>
+        <select name="accommodationId" class="form-control" asp-items="accommodations">
+            <option value="0">Select accommodation</option>
+        </select>
+        <span class="text-danger">@Html.ValidationMessage("AccommodationId")</span>
+    </div>
+
+    <div class="mb-3">
+        <label>Start Date</label>
+        <input name="startDate" type="date" class="form-control" />
+    </div>
+
+    <div class="mb-3">
+        <label>End Date</label>
+        <input name="endDate" type="date" class="form-control" />
+    </div>
+
+    <button type="submit" class="btn btn-primary">Next</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancel</a>
+</form>
+
+

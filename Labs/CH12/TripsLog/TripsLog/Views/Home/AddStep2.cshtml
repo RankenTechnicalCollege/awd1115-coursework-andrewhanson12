@@ -1,0 +1,16 @@
+﻿@{
+    var activities = (MultiSelectList)ViewBag.Activities;
+}
+
+<form asp-action="AddStep2" method="post">
+    <div class="mb-3">
+        <label>Select Things To Do</label>
+        <select name="activityIds" asp-items="activities" multiple="multiple" size="8" class="form-control">
+        </select>
+    </div>
+
+    <button type="submit" name="button" value="Save" class="btn btn-primary">Save</button>
+    <button type="submit" name="button" value="Cancel" class="btn btn-secondary">Cancel</button>
+</form>
+
+

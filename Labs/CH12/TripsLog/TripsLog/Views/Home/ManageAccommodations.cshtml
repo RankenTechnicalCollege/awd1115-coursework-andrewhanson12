@@ -1,0 +1,55 @@
+﻿@model IEnumerable<TripsLog.Models.Accommodation>
+
+@if (ViewBag.Error != null)
+{
+    <div class="alert alert-danger">@ViewBag.Error</div>
+}
+
+<h3>Add Accommodation</h3>
+<form asp-action="AddAccommodation" method="post">
+    <div class="mb-3">
+        <label>Name</label>
+        <input name="name" class="form-control" />
+    </div>
+
+    <div class="mb-3">
+        <label>Phone</label>
+        <input name="phone" class="form-control" />
+    </div>
+
+    <div class="mb-3">
+        <label>Email</label>
+        <input name="email" class="form-control" />
+    </div>
+
+    <button type="submit" class="btn btn-primary">Add Accommodation</button>
+</form>
+
+<h3 class="mt-4">Existing Accommodations</h3>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Phone</th>
+            <th>Email</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var a in Model)
+        {
+            <tr>
+                <td>@a.Name</td>
+                <td>@a.Phone</td>
+                <td>@a.Email</td>
+                <td>
+                    <form asp-action="DeleteAccommodation" method="post">
+                        <input type="hidden" name="id" value="@a.AccommodationId" />
+                        <button type="submit" class="btn btn-danger">Delete</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

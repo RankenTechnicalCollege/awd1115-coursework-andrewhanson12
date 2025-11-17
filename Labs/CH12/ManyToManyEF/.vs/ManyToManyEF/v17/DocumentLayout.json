@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\andre\\Documents\\GitHub\\awd1115-coursework-andrewhanson12\\Labs\\CH12\\ManyToManyEF\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A5C645D2-6F01-4F15-86EF-FBA1ACF1197A}|ManyToManyEF\\ManyToManyEF.csproj|c:\\users\\andre\\documents\\github\\awd1115-coursework-andrewhanson12\\labs\\ch12\\manytomanyef\\manytomanyef\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5C645D2-6F01-4F15-86EF-FBA1ACF1197A}|ManyToManyEF\\ManyToManyEF.csproj|solutionrelative:manytomanyef\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A5C645D2-6F01-4F15-86EF-FBA1ACF1197A}|ManyToManyEF\\ManyToManyEF.csproj|c:\\users\\andre\\documents\\github\\awd1115-coursework-andrewhanson12\\labs\\ch12\\manytomanyef\\manytomanyef\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A5C645D2-6F01-4F15-86EF-FBA1ACF1197A}|ManyToManyEF\\ManyToManyEF.csproj|solutionrelative:manytomanyef\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -15,12 +19,16 @@
       "RelativeMoniker": "D:0:0:{A5C645D2-6F01-4F15-86EF-FBA1ACF1197A}|ManyToManyEF\\ManyToManyEF.csproj|solutionrelative:manytomanyef\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A5C645D2-6F01-4F15-86EF-FBA1ACF1197A}|ManyToManyEF\\ManyToManyEF.csproj|c:\\users\\andre\\documents\\github\\awd1115-coursework-andrewhanson12\\labs\\ch12\\manytomanyef\\manytomanyef\\views\\student\\enrollnewstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A5C645D2-6F01-4F15-86EF-FBA1ACF1197A}|ManyToManyEF\\ManyToManyEF.csproj|solutionrelative:manytomanyef\\views\\student\\enrollnewstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A5C645D2-6F01-4F15-86EF-FBA1ACF1197A}|ManyToManyEF\\ManyToManyEF.csproj|c:\\users\\andre\\documents\\github\\awd1115-coursework-andrewhanson12\\labs\\ch12\\manytomanyef\\manytomanyef\\views\\student\\deletestudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A5C645D2-6F01-4F15-86EF-FBA1ACF1197A}|ManyToManyEF\\ManyToManyEF.csproj|solutionrelative:manytomanyef\\views\\student\\deletestudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5C645D2-6F01-4F15-86EF-FBA1ACF1197A}|ManyToManyEF\\ManyToManyEF.csproj|c:\\users\\andre\\documents\\github\\awd1115-coursework-andrewhanson12\\labs\\ch12\\manytomanyef\\manytomanyef\\views\\student\\enrollnewstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A5C645D2-6F01-4F15-86EF-FBA1ACF1197A}|ManyToManyEF\\ManyToManyEF.csproj|solutionrelative:manytomanyef\\views\\student\\enrollnewstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A5C645D2-6F01-4F15-86EF-FBA1ACF1197A}|ManyToManyEF\\ManyToManyEF.csproj|c:\\users\\andre\\documents\\github\\awd1115-coursework-andrewhanson12\\labs\\ch12\\manytomanyef\\manytomanyef\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A5C645D2-6F01-4F15-86EF-FBA1ACF1197A}|ManyToManyEF\\ManyToManyEF.csproj|solutionrelative:manytomanyef\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A5C645D2-6F01-4F15-86EF-FBA1ACF1197A}|ManyToManyEF\\ManyToManyEF.csproj|c:\\users\\andre\\documents\\github\\awd1115-coursework-andrewhanson12\\labs\\ch12\\manytomanyef\\manytomanyef\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -47,6 +55,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\GitHub\\awd1115-coursework-andrewhanson12\\Labs\\CH12\\ManyToManyEF\\ManyToManyEF\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "ManyToManyEF\\Models\\Course.cs",
+              "ToolTip": "C:\\Users\\andre\\Documents\\GitHub\\awd1115-coursework-andrewhanson12\\Labs\\CH12\\ManyToManyEF\\ManyToManyEF\\Models\\Course.cs",
+              "RelativeToolTip": "ManyToManyEF\\Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T22:58:41.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\andre\\Documents\\GitHub\\awd1115-coursework-andrewhanson12\\Labs\\CH12\\ManyToManyEF\\ManyToManyEF\\appsettings.json",
+              "RelativeDocumentMoniker": "ManyToManyEF\\appsettings.json",
+              "ToolTip": "C:\\Users\\andre\\Documents\\GitHub\\awd1115-coursework-andrewhanson12\\Labs\\CH12\\ManyToManyEF\\ManyToManyEF\\appsettings.json",
+              "RelativeToolTip": "ManyToManyEF\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-16T22:15:44.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\andre\\Documents\\GitHub\\awd1115-coursework-andrewhanson12\\Labs\\CH12\\ManyToManyEF\\ManyToManyEF\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "ManyToManyEF\\Views\\Shared\\_Layout.cshtml",
@@ -59,20 +93,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\andre\\Documents\\GitHub\\awd1115-coursework-andrewhanson12\\Labs\\CH12\\ManyToManyEF\\ManyToManyEF\\Views\\Courses\\Details.cshtml",
               "RelativeDocumentMoniker": "ManyToManyEF\\Views\\Courses\\Details.cshtml",
               "ToolTip": "C:\\Users\\andre\\Documents\\GitHub\\awd1115-coursework-andrewhanson12\\Labs\\CH12\\ManyToManyEF\\ManyToManyEF\\Views\\Courses\\Details.cshtml",
               "RelativeToolTip": "ManyToManyEF\\Views\\Courses\\Details.cshtml",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAkwCEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-11-10T01:32:48.018Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "CoursesController.cs",
               "DocumentMoniker": "C:\\Users\\andre\\Documents\\GitHub\\awd1115-coursework-andrewhanson12\\Labs\\CH12\\ManyToManyEF\\ManyToManyEF\\Controllers\\CoursesController.cs",
               "RelativeDocumentMoniker": "ManyToManyEF\\Controllers\\CoursesController.cs",
@@ -98,7 +132,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "DeleteStudent.cshtml",
               "DocumentMoniker": "C:\\Users\\andre\\Documents\\GitHub\\awd1115-coursework-andrewhanson12\\Labs\\CH12\\ManyToManyEF\\ManyToManyEF\\Views\\Student\\DeleteStudent.cshtml",
               "RelativeDocumentMoniker": "ManyToManyEF\\Views\\Student\\DeleteStudent.cshtml",
@@ -111,7 +145,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "ChangeEnrollment.cshtml",
               "DocumentMoniker": "C:\\Users\\andre\\Documents\\GitHub\\awd1115-coursework-andrewhanson12\\Labs\\CH12\\ManyToManyEF\\ManyToManyEF\\Views\\Student\\ChangeEnrollment.cshtml",
               "RelativeDocumentMoniker": "ManyToManyEF\\Views\\Student\\ChangeEnrollment.cshtml",
@@ -119,12 +153,11 @@
               "RelativeToolTip": "ManyToManyEF\\Views\\Student\\ChangeEnrollment.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-10T01:04:11.111Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-10T01:04:11.111Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\andre\\Documents\\GitHub\\awd1115-coursework-andrewhanson12\\Labs\\CH12\\ManyToManyEF\\ManyToManyEF\\Views\\Student\\Index.cshtml",
               "RelativeDocumentMoniker": "ManyToManyEF\\Views\\Student\\Index.cshtml",
@@ -132,12 +165,11 @@
               "RelativeToolTip": "ManyToManyEF\\Views\\Student\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAACHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-11-10T00:23:36.151Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-10T00:23:36.151Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "StudentController.cs",
               "DocumentMoniker": "C:\\Users\\andre\\Documents\\GitHub\\awd1115-coursework-andrewhanson12\\Labs\\CH12\\ManyToManyEF\\ManyToManyEF\\Controllers\\StudentController.cs",
               "RelativeDocumentMoniker": "ManyToManyEF\\Controllers\\StudentController.cs",
@@ -145,8 +177,7 @@
               "RelativeToolTip": "ManyToManyEF\\Controllers\\StudentController.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAFoAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-10T00:20:42.379Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-10T00:20:42.379Z"
             }
           ]
         }
