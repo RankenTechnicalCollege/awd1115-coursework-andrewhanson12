@@ -1,0 +1,51 @@
+﻿@model IEnumerable<HOT3.Models.AppUser>
+@{
+    ViewBag.Title = "User Manager";
+    Layout = "_AdminLayout";
+}
+
+<h1>User Manager</h1>
+
+<form asp-action="CreateAdminRole" method="post" class="mb-3">
+    <button type="submit" class="btn btn-primary">Create Admin Role</button>
+</form>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>User Name</th>
+            <th>Email</th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var user in Model)
+        {
+            <tr>
+                <td>@user.UserName</td>
+                <td>@user.Email</td>
+                <td>
+                    <form asp-action="Delete" method="post">
+                        <input type="hidden" name="id" value="@user.Id" />
+                        <button type="submit" class="btn btn-danger btn-sm">Delete user</button>
+                    </form>
+                </td>
+                <td>
+                    <form asp-action="AddToAdmin" method="post">
+                        <input type="hidden" name="id" value="@user.Id" />
+                        <button type="submit" class="btn btn-success btn-sm">Add to Admin role</button>
+                    </form>
+                </td>
+                <td>
+                    <form asp-action="RemoveFromAdmin" method="post">
+                        <input type="hidden" name="id" value="@user.Id" />
+                        <button type="submit" class="btn btn-warning btn-sm">Remove from Admin role</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+

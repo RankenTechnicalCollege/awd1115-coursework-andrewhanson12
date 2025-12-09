@@ -1,0 +1,38 @@
+﻿@model ShoppingCartViewModel
+@{
+	ViewData["Title"] = "Shopping Cart";
+}
+<h1>Shopping Cart</h1>
+<h2 class="text-success bg-dark">@ViewBag.CartMessage</h2>
+<table class="table">
+	<thead>
+		<tr>
+			<th>Title</th>
+			<th>Genre</th>
+			<th>Price</th>
+			<th>Quantity</th>
+			<th>Total</th>
+		</tr>
+	</thead>
+	<tbody>
+		@foreach (var item in Model.CartItems)
+		{
+			<tr>
+				<td>@item.Game.Name</td>
+				<td>@item.Game.Genre</td>
+				<td>@String.Format("{0:C}", item.Game.Price)</td>
+				<td>@item.Quantity</td>
+				<td>@((item.Game.Price * item.Quantity)?.ToString("C"))</td>
+				<input type="hidden" value="@item.Game.Id"/>
+				<td>
+					<a asp-controller="ShoppingCart" asp-action="RemoveItem" asp-route-id="@item.Game.Id" class="btn btn-danger">Remove</a>
+				</td>
+			</tr>
+		}
+		<tr>
+			<td colspan="4" class="text-right"><strong>Total:</strong></td>
+			<td><strong>@Model.TotalPrice?.ToString("C")</strong></td>
+		</tr>
+	</tbody>
+</table>
+<a class="btn btn-success" asp-controller="ShoppingCart" asp-action="PurchaseItems">Purchase</a>

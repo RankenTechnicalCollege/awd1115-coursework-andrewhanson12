@@ -1,0 +1,42 @@
+﻿@model HOT3.Models.Game
+@{
+	ViewBag.Title = "Add/Edit Game";
+}
+@* Name = "The Legend of Zelda: Breath of the Wild",
+   Genre = "Action",
+   Year = 2017,
+   Developer = "Nintendo",
+   Publisher = "Nintendo",
+   Price = 59.99m,
+   ImageFileName = "zelda_breath_of_the_wild.jpg" *@
+
+<h1>Admin Add/Edit</h1>
+<div asp-validation-summary="All" class="text-danger"></div>
+<form asp-controller="Game" asp-action="Add" method="post">
+	<div class="form-floating mb-3">
+		<input asp-for="Name" class="form-control" id="floatingName" placeholder="Name">
+		<label asp-for="Name" for="floatingName">Name</label>
+	</div>
+	<div class="form-floating mb-3">
+		<input asp-for="Genre" class="form-control" id="floatingGenre" placeholder="Genre">
+		<label asp-for="Genre" for="floatingGenre">Genre</label>
+	</div>
+	<div class="form-floating mb-3">
+		<input asp-for="Year" class="form-control" id="floatingYear" placeholder="Year">
+		<label asp-for="Year" for="floatingYear">Year</label>
+	</div>
+	<div class="form-floating mb-3">
+		<input asp-for="Developer" class="form-control" id="floatingDeveloper" placeholder="Developer">
+		<label asp-for="Developer" for="floatingDeveloper">Developer</label>
+	</div>
+	<div class="form-floating mb-3">
+		<input asp-for="Publisher" class="form-control" id="floatingPublisher" placeholder="Publisher">
+		<label asp-for="Publisher" for="floatingPublisher">Publisher</label>
+	</div>
+	<div class="form-floating mb-3">
+		<input asp-for="Price" class="form-control" id="floatingPrice" placeholder="Price">
+		<label asp-for="Price" for="floatingPrice">Price</label>
+	</div>
+	<button type="submit" class="btn btn-primary">Save</button>
+</form>
+
