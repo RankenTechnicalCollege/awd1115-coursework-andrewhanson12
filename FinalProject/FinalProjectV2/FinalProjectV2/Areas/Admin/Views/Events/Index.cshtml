@@ -1,0 +1,42 @@
+﻿@model IEnumerable<FinalProjectV2.Models.Event>
+
+<h2>Manage Events</h2>
+
+@if (TempData["message"] != null)
+{
+    <div class="alert alert-success">@TempData["message"]</div>
+}
+
+<p>
+    <a asp-area="Admin" asp-controller="Events" asp-action="Create" class="btn btn-primary">
+        Create Event
+    </a>
+</p>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Start</th>
+            <th>Location</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var e in Model)
+        {
+            <tr>
+                <td>@e.Name</td>
+                <td>@e.StartDate.ToString("g")</td>
+                <td>@e.Location</td>
+                <td class="text-end">
+                    <a asp-area="Admin" asp-controller="Events" asp-action="Edit" asp-route-id="@e.EventId"
+                       class="btn btn-sm btn-warning">Edit</a>
+                    <a asp-area="Admin" asp-controller="Events" asp-action="Delete" asp-route-id="@e.EventId"
+                       class="btn btn-sm btn-danger">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+

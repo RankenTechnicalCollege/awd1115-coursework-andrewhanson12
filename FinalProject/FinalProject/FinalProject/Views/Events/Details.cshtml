@@ -1,0 +1,64 @@
+﻿@model FinalProject.Models.ViewModels.EventDetailsViewModel
+
+@{
+    ViewData["Title"] = "Event Details";
+}
+
+<h2>@Model.Event.Title</h2>
+
+<dl class="row">
+    <dt class="col-sm-3">Date</dt>
+    <dd class="col-sm-9">@Model.Event.EventDate.ToShortDateString()</dd>
+
+    <dt class="col-sm-3">Location</dt>
+    <dd class="col-sm-9">@Model.Event.Location</dd>
+
+    <dt class="col-sm-3">Base Price</dt>
+    <dd class="col-sm-9">@Model.Event.BasePrice.ToString("C")</dd>
+</dl>
+
+<h4>Ticket Types</h4>
+
+@if (Model.TicketTypes.Count == 0)
+{
+    <p>No ticket types have been added yet.</p>
+}
+else
+{
+    <table class="table table-sm">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th class="text-end">Price</th>
+            </tr>
+        </thead>
+        <tbody>
+        @foreach (var t in Model.TicketTypes)
+        {
+            <tr>
+                <td>@t.Name</td>
+                <td class="text-end">@t.Price.ToString("C")</td>
+            </tr>
+        }
+        </tbody>
+    </table>
+}
+
+<h4>Features</h4>
+
+@if (Model.FeatureNames.Count == 0)
+{
+    <p>No features listed for this event.</p>
+}
+else
+{
+    <ul>
+    @foreach (var f in Model.FeatureNames)
+    {
+        <li>@f</li>
+    }
+    </ul>
+}
+
+<a asp-action="Index" class="btn btn-secondary">Back to Schedule</a>
+

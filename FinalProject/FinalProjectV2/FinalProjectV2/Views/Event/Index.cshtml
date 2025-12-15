@@ -1,0 +1,50 @@
+﻿@model FinalProjectV2.Models.ViewModels.EventListVM
+@{
+    ViewData["Title"] = "Events";
+}
+
+<h2>Events</h2>
+
+<form asp-action="Index" method="get" class="row g-2 mb-3">
+    <div class="col-md-6">
+        <input name="searchTerm" value="@Model.SearchTerm" class="form-control" placeholder="Search by name or location..." />
+    </div>
+    <div class="col-md-2">
+        <button type="submit" class="btn btn-primary w-100">Search</button>
+    </div>
+    <div class="col-md-2">
+        <a asp-action="Index" class="btn btn-secondary w-100">Clear</a>
+    </div>
+</form>
+
+@if (!Model.Events.Any())
+{
+    <p>No events found.</p>
+}
+else
+{
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Location</th>
+                <th>Start</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var e in Model.Events)
+            {
+                <tr>
+                    <td>@e.Name</td>
+                    <td>@e.Location</td>
+                    <td>@e.StartDate.ToString("g")</td>
+                    <td class="text-end">
+                        <a asp-action="Details" asp-route-id="@e.EventId" class="btn btn-sm btn-primary">Details</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+

@@ -1,0 +1,62 @@
+﻿@model FinalProjectV2.Models.ViewModels.EventDetailsVM
+@{
+    ViewData["Title"] = "Event Details";
+}
+
+<h2>@Model.Event.Name</h2>
+
+<div class="mb-3">
+    <div><strong>Location:</strong> @Model.Event.Location</div>
+    <div><strong>Start:</strong> @Model.Event.StartDate.ToString("f")</div>
+    <div><strong>Description:</strong> @Model.Event.Description</div>
+</div>
+
+@if (Model.Tags.Any())
+{
+    <div class="mb-3">
+        <strong>Tags:</strong>
+        @string.Join(", ", Model.Tags.Select(t => t.Name))
+    </div>
+}
+
+<h4>Tickets</h4>
+
+@if (!Model.TicketTypes.Any())
+{
+    <p>No tickets available for this event yet.</p>
+}
+else
+{
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Type</th>
+                <th class="text-end">Price</th>
+                <th class="text-end">Available</th>
+                <th style="width:220px;"></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var t in Model.TicketTypes)
+            {
+                <tr>
+                    <td>@t.Name</td>
+                    <td class="text-end">@t.Price.ToString("c")</td>
+                    <td class="text-end">@t.QuantityAvailable</td>
+                    <td class="text-end">
+                        <form asp-controller="Cart" asp-action="Add" method="post" class="d-flex justify-content-end gap-2">
+                            <input type="hidden" name="ticketTypeId" value="@t.TicketTypeId" />
+                            <input type="hidden" name="returnUrl" value="@Url.Action("Details", "Event", new { id = Model.Event.EventId })" />
+                            <input type="number" name="quantity" value="1" min="1" class="form-control form-control-sm" style="width:80px;" />
+                            <button type="submit" class="btn btn-sm btn-success">Add</button>
+                        </form>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+<a asp-action="Index" class="btn btn-secondary">Back to Events</a>
+<a asp-controller="Cart" asp-action="Index" class="btn btn-primary">View Cart</a>
+

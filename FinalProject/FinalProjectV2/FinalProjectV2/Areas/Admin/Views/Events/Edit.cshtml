@@ -1,0 +1,48 @@
+﻿@model FinalProjectV2.Models.Event
+
+@{
+    var isNew = Model.EventId == 0;
+    ViewData["Title"] = isNew ? "Create Event" : "Edit Event";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<form asp-area="Admin" asp-controller="Events" asp-action="@(isNew ? "Create" : "Edit")" method="post">
+    @Html.AntiForgeryToken()
+
+    @if (!isNew)
+    {
+        <input type="hidden" asp-for="EventId" />
+    }
+
+    <div class="mb-3">
+        <label asp-for="Name" class="form-label"></label>
+        <input asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Location" class="form-label"></label>
+        <input asp-for="Location" class="form-control" />
+        <span asp-validation-for="Location" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="StartDate" class="form-label">Date</label>
+        <input asp-for="StartDate" type="datetime-local" class="form-control" />
+        <span asp-validation-for="StartDate" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Description" class="form-label"></label>
+        <textarea asp-for="Description" class="form-control" rows="4"></textarea>
+        <span asp-validation-for="Description" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-success">Save</button>
+    <a asp-area="Admin" asp-controller="Events" asp-action="Index" class="btn btn-secondary">Cancel</a>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

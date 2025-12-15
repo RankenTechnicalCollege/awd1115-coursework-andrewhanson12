@@ -1,0 +1,12 @@
+﻿@{
+    ViewData["Title"] = "Order Confirmation";
+}
+
+<h2>Order Confirmation</h2>
+
+<p>Your order has been placed!</p>
+
+<p><strong>Order #:</strong> @ViewBag.OrderId</p>
+
+<a asp-controller="Event" asp-action="Index" class="btn btn-primary">Continue Browsing</a>
+

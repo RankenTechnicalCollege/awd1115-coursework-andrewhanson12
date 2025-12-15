@@ -1,0 +1,15 @@
+﻿@model FinalProjectV2.Models.Event
+
+<h2>Delete Event</h2>
+
+<div class="alert alert-warning">
+    Are you sure you want to delete <strong>@Model.Name</strong>?
+</div>
+
+<form asp-area="Admin" asp-controller="Events" asp-action="Delete" method="post">
+    @Html.AntiForgeryToken()
+    <input type="hidden" asp-for="EventId" />
+    <button type="submit" class="btn btn-danger">Yes, delete</button>
+    <a asp-area="Admin" asp-controller="Events" asp-action="Index" class="btn btn-secondary">Cancel</a>
+</form>
+

@@ -1,0 +1,66 @@
+﻿@model List<FinalProjectV2.Models.TicketType>
+
+@{
+    ViewData["Title"] = "Manage Tickets";
+    var events = ViewBag.Events as SelectList;
+    int eventId = ViewBag.EventId ?? 0;
+}
+
+<h1>Manage Tickets</h1>
+
+@if (TempData["message"] != null)
+{
+    <div class="alert alert-success">@TempData["message"]</div>
+}
+
+<form asp-action="Index" method="get" class="row g-2 align-items-end mb-3">
+    <div class="col-md-6">
+        <label class="form-label">Filter by Event</label>
+        <select class="form-select" name="eventId" asp-items="events">
+            <option value="0">All events</option>
+        </select>
+    </div>
+    <div class="col-md-2">
+        <button class="btn btn-primary w-100" type="submit">Filter</button>
+    </div>
+    <div class="col-md-4 text-end">
+        <a class="btn btn-success"
+           asp-action="Create"
+           asp-route-eventId="@eventId">
+            Create Ticket Type
+        </a>
+    </div>
+</form>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Event</th>
+            <th>Name</th>
+            <th class="text-end">Price</th>
+            <th class="text-end">Qty Available</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var t in Model)
+        {
+            <tr>
+                <td>@t.Event?.Name</td>
+                <td>@t.Name</td>
+                <td class="text-end">@t.Price.ToString("c")</td>
+                <td class="text-end">@t.QuantityAvailable</td>
+                <td class="text-end">
+                    <a class="btn btn-sm btn-outline-primary"
+                       asp-action="Edit"
+                       asp-route-id="@t.TicketTypeId">Edit</a>
+
+                    <a class="btn btn-sm btn-outline-danger"
+                       asp-action="Delete"
+                       asp-route-id="@t.TicketTypeId">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+

@@ -1,0 +1,54 @@
+﻿@model IEnumerable<FinalProject.Models.Event>
+
+@{
+    ViewData["Title"] = "Admin - Events";
+}
+
+<h2>Admin - Events</h2>
+
+@if (TempData["Message"] != null)
+{
+    <div class="alert alert-success">
+        @TempData["Message"]
+    </div>
+}
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Title</th>
+            <th>Date</th>
+            <th>Location</th>
+            <th>Base Price</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var e in Model)
+        {
+            <tr>
+                <td>@e.Title</td>
+                <td>@e.EventDate.ToShortDateString()</td>
+                <td>@e.Location</td>
+                <td>@e.BasePrice.ToString("C")</td>
+                <td class="text-end">
+                    <a asp-area="Admin" asp-controller="Events" asp-action="Edit"
+                       asp-route-id="@e.EventId" asp-route-slug="@e.Slug"
+                       class="btn btn-sm btn-outline-primary">Edit
+                   </a>
+
+                    <a asp-area="Admin" asp-controller="Events" asp-action="Delete"
+                       asp-route-id="@e.EventId" asp-route-slug="@e.Slug"
+                       class="btn btn-sm btn-outline-danger">Delete
+                   </a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<div>
+    <a asp-area="Admin" asp-controller="Events" asp-action="Create" class="btn btn-primary">
+        Add New Event
+    </a>
+</div>

@@ -8,6 +8,10 @@
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/FinalProject.styles.css" asp-append-version="true" />
 </head>
+@{
+        string currentController = ViewContext.RouteData.Values["controller"]?.ToString() ?? "";
+        string currentArea = ViewContext.RouteData.Values["area"]?.ToString() ?? "";
+}
 <body>
     <header>
         <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-warning border-bottom box-shadow mb-3">
@@ -18,18 +22,29 @@
                     <span class="navbar-toggler-icon"></span>
                 </button>
                 <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
-                    <ul class="navbar-nav flex-grow-1">
+                    <ul class="navbar-nav me-auto">
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                            <a class="nav-link @(currentController == "Home" && currentArea == "" ? "active" : "")"
+                               asp-controller="Home" asp-action="Index" asp-area="">Home
+                           </a>
                         </li>
+
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="#">Upcoming Schedule</a>
+                            <a class="nav-link @(currentController == "Events" && currentArea == "" ? "active" : "")"
+                               asp-controller="Events" asp-action="Index" asp-area="">
+                                Upcoming Schedule
+                           </a>
                         </li>
+                    </ul>
+                    <ul class="navbar-nav ms-auto">
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="#">Tickets</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="#">Host an Event</a>
+                            <a class="nav-link @(currentArea == "Admin" ? "active" : "")"
+                               asp-area="Admin"
+                               asp-controller="Events"
+                               asp-action="Index"
+                               asp-area="">
+                                Admin
+                            </a>
                         </li>
                     </ul>
                 </div>
